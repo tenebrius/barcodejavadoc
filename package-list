@@ -1,0 +1,12 @@
+com.ccjk.cybex.barcodegen.app
+com.ccjk.cybex.barcodegen.model
+com.ccjk.cybex.barcodegen.model.parsers
+com.ccjk.cybex.barcodegen.print
+com.ccjk.cybex.barcodegen.print.job
+com.ccjk.cybex.barcodegen.print.label
+com.ccjk.cybex.barcodegen.print.printer
+com.ccjk.cybex.barcodegen.util
+com.ccjk.cybex.barcodegen.views
+com.ccjk.cybex.barcodegen.views.main
+com.ccjk.cybex.barcodegen.views.widget
+src
